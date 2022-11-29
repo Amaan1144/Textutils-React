@@ -13,3 +13,5 @@ Copy Text
 <img width="960" alt="copy" src="https://user-images.githubusercontent.com/83641122/204615981-ee602a62-43d7-430d-8557-ce52556dbb50.png">
 About Page
 <img width="959" alt="Screenshot 2022-11-29 234727" src="https://user-images.githubusercontent.com/83641122/204615149-d2e24937-54f6-4bc5-9557-370a85a8ff23.png">
+
+To run this -- In root directory install node_modules by npm install, then npm start.

@@ -6,10 +6,10 @@ Night mode
 Uppercase
 <img width="959" alt="upper" src="https://user-images.githubusercontent.com/83641122/204615414-cce33fc9-5fb5-4b3e-a404-3e7a6c91aea0.png">
 Lowercase
-![Screenshot (13)](https://user-images.githubusercontent.com/83641122/204614934-452b8bc3-8bab-4c6d-8fa4-26dcb23b55ff.png)
+<img width="960" alt="lower" src="https://user-images.githubusercontent.com/83641122/204615870-5e7b6a3f-bb0a-48e6-a96e-7bbec8eab2ef.png">
 Clear Text
-![Screenshot (17)](https://user-images.githubusercontent.com/83641122/204615077-089305e0-bd66-4028-87c6-4a7b367aa534.png)
+<img width="959" alt="empty" src="https://user-images.githubusercontent.com/83641122/204615949-4b7c37ff-bfd2-48b3-8b1f-d8a11fc48334.png">
 Copy Text
-![Screenshot (14)](https://user-images.githubusercontent.com/83641122/204615121-9b4be748-2ed6-430a-bc20-55faf8adef03.png)
+<img width="960" alt="copy" src="https://user-images.githubusercontent.com/83641122/204615981-ee602a62-43d7-430d-8557-ce52556dbb50.png">
 About Page
 <img width="959" alt="Screenshot 2022-11-29 234727" src="https://user-images.githubusercontent.com/83641122/204615149-d2e24937-54f6-4bc5-9557-370a85a8ff23.png">
